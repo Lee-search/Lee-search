@@ -68,5 +68,5 @@
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=Lee-search&show_icons=true&theme=radical)
 
 ### 🌐 연락처
-- [E-MAIL](ukyoung147@gmail.com)
+- [E-MAIL](mailto:ukyoung147@gmail.com)
 - ~~[포트폴리오(업로드예정)]()~~
